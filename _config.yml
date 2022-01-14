@@ -1,7 +1,5 @@
-theme: jekyll-theme-minimal
-title: personal website
+theme: jekyll-theme-modernist
+title: Fulya Kıroğlu
 description: ""
 github:
 	is_project_page: false
-author:
-	avatar: "./files/img/kiroglu.png"
