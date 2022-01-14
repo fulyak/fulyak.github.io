@@ -4,4 +4,4 @@ description: personal website
 github:
 	is_project_page: false
 author:
-	avatar: ./files/img/kiroglu.png
+	avatar: "./files/img/kiroglu.png"
