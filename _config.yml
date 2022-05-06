@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Fulya Kiroglu
-logo: files/img/kiroglu.png
+logo: ./files/img/kiroglu.png
 description: personal website
+show_downloads: false
 github:
 	is_project_page: false
